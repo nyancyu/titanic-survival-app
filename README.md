@@ -8,7 +8,7 @@ https://titanic-survival-app-zzlvm5mih3zbsemrrgry3n.streamlit.app
 
 ## Application
 <p align="center">
-<img src="images/app_screenshot_01.png" width="700">
+<img src="images/app.png" width="700">
 </p>
 <p align="center">
 <img src="images/app_screenshot_02.png" width="700">
@@ -16,6 +16,7 @@ https://titanic-survival-app-zzlvm5mih3zbsemrrgry3n.streamlit.app
 <p align="center">
 <img src="images/app_screenshot_03.png" width="700">
 </p>
+
 ## Overview
 
 This application uses a LightGBM classifier trained on the Kaggle Titanic dataset to estimate the probability that a passenger would survive.
