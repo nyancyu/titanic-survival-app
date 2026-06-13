@@ -8,10 +8,13 @@ https://titanic-survival-app-zzlvm5mih3zbsemrrgry3n.streamlit.app
 
 ## Application
 <p align="center">
-<img src="images/app_01.png" width="700">
+<img src="images/app_screenshot_01.png" width="700">
 </p>
 <p align="center">
-<img src="images/app_02.png" width="700">
+<img src="images/app_screenshot_02.png" width="700">
+</p>
+<p align="center">
+<img src="images/app_screenshot_03.png" width="700">
 </p>
 ## Overview
 
